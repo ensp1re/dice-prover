@@ -1,0 +1,7 @@
+cargo::rerun-if-changed=/dice-game/program/src
+cargo::rerun-if-changed=/dice-game/program/Cargo.toml
+cargo:rerun-if-changed=/dice-game/program/Cargo.lock
+cargo:rerun-if-changed=/dice-game/lib
+cargo:warning=rustc +succinct --version: "rustc 1.85.0-dev\n"
+cargo:rustc-env=SP1_ELF_dice_proof_program=/dice-game/program/target/elf-compilation/riscv32im-succinct-zkvm-elf/release/dice_proof_program
+cargo:warning=dice_proof_program built at 2025-04-03 14:01:41

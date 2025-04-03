@@ -1,0 +1,1 @@
+/dice-game/script/target/release/prove: /dice-game/lib /dice-game/lib/src/lib.rs /dice-game/program/Cargo.lock /dice-game/program/Cargo.toml /dice-game/program/src /dice-game/program/target/elf-compilation/riscv32im-succinct-zkvm-elf/release/dice_proof_program /dice-game/script/build.rs /dice-game/script/src/bin/prove.rs

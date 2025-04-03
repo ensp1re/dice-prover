@@ -1,0 +1,10 @@
+/dice-game/program/target/elf-compilation/riscv32im-succinct-zkvm-elf/release/deps/libp3_poseidon2-3cb25f1c37ec13ae.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/p3-poseidon2-0.2.0-succinct/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/p3-poseidon2-0.2.0-succinct/src/diffusion.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/p3-poseidon2-0.2.0-succinct/src/matrix.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/p3-poseidon2-0.2.0-succinct/src/round_numbers.rs
+
+/dice-game/program/target/elf-compilation/riscv32im-succinct-zkvm-elf/release/deps/libp3_poseidon2-3cb25f1c37ec13ae.rlib: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/p3-poseidon2-0.2.0-succinct/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/p3-poseidon2-0.2.0-succinct/src/diffusion.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/p3-poseidon2-0.2.0-succinct/src/matrix.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/p3-poseidon2-0.2.0-succinct/src/round_numbers.rs
+
+/dice-game/program/target/elf-compilation/riscv32im-succinct-zkvm-elf/release/deps/p3_poseidon2-3cb25f1c37ec13ae.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/p3-poseidon2-0.2.0-succinct/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/p3-poseidon2-0.2.0-succinct/src/diffusion.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/p3-poseidon2-0.2.0-succinct/src/matrix.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/p3-poseidon2-0.2.0-succinct/src/round_numbers.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/p3-poseidon2-0.2.0-succinct/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/p3-poseidon2-0.2.0-succinct/src/diffusion.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/p3-poseidon2-0.2.0-succinct/src/matrix.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/p3-poseidon2-0.2.0-succinct/src/round_numbers.rs:

@@ -1,0 +1,10 @@
+/dice-game/script/target/release/deps/libparity_scale_codec_derive-3a2fd2830e8ba95d.so: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-scale-codec-derive-3.7.4/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-scale-codec-derive-3.7.4/src/decode.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-scale-codec-derive-3.7.4/src/encode.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-scale-codec-derive-3.7.4/src/max_encoded_len.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-scale-codec-derive-3.7.4/src/trait_bounds.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-scale-codec-derive-3.7.4/src/utils.rs
+
+/dice-game/script/target/release/deps/parity_scale_codec_derive-3a2fd2830e8ba95d.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-scale-codec-derive-3.7.4/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-scale-codec-derive-3.7.4/src/decode.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-scale-codec-derive-3.7.4/src/encode.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-scale-codec-derive-3.7.4/src/max_encoded_len.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-scale-codec-derive-3.7.4/src/trait_bounds.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-scale-codec-derive-3.7.4/src/utils.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-scale-codec-derive-3.7.4/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-scale-codec-derive-3.7.4/src/decode.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-scale-codec-derive-3.7.4/src/encode.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-scale-codec-derive-3.7.4/src/max_encoded_len.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-scale-codec-derive-3.7.4/src/trait_bounds.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-scale-codec-derive-3.7.4/src/utils.rs:

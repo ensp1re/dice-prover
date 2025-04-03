@@ -1,0 +1,11 @@
+/dice-game/script/target/release/deps/liballoy_sol_macro_input-fe033ccce5984ae0.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-sol-macro-input-0.8.22/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-sol-macro-input-0.8.22/src/attr.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-sol-macro-input-0.8.22/src/input.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-sol-macro-input-0.8.22/src/expander.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-sol-macro-input-0.8.22/src/../README.md
+
+/dice-game/script/target/release/deps/liballoy_sol_macro_input-fe033ccce5984ae0.rlib: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-sol-macro-input-0.8.22/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-sol-macro-input-0.8.22/src/attr.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-sol-macro-input-0.8.22/src/input.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-sol-macro-input-0.8.22/src/expander.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-sol-macro-input-0.8.22/src/../README.md
+
+/dice-game/script/target/release/deps/alloy_sol_macro_input-fe033ccce5984ae0.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-sol-macro-input-0.8.22/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-sol-macro-input-0.8.22/src/attr.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-sol-macro-input-0.8.22/src/input.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-sol-macro-input-0.8.22/src/expander.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-sol-macro-input-0.8.22/src/../README.md
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-sol-macro-input-0.8.22/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-sol-macro-input-0.8.22/src/attr.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-sol-macro-input-0.8.22/src/input.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-sol-macro-input-0.8.22/src/expander.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-sol-macro-input-0.8.22/src/../README.md:
